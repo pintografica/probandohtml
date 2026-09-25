@@ -1,0 +1,7 @@
+h1 {
+    color:blueviolet; 
+    font-size: 3em;
+    display: flex;
+    justify-content: center;
+    margin-top: 8em;
+}
